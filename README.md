@@ -6,3 +6,5 @@ flutter MFA with google authenticator app
 
 # screenshots
 ![Screenshot of my app](Home.jpg)
+![Screenshot of my app](QR.jpg)
+![Screenshot of my app](Validate.jpg)
